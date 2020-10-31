@@ -1,12 +1,12 @@
 ![GIF Image](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 
-### Hola, Soy Esteban :rocket: :coffee: 👋
-> Ingeniero Electrónico, Desarrollador Android & Diseñador de Hardware.
+### Hi, I'm Esteban :rocket: :coffee: 👋
+> Electronic Engineer, Android Developer & Hardware Designer.
 
-Hola, soy un Ingeniero Electrónico apasionado por la tecnología y el desarrollo de software y hardware. Mi objetivo se centra en desarrollar habilidades en el diseño e integración de componentes hardware especifico y software a la medida, principalmente en dispositivos móviles. Actualmente estoy empezando en el campo del desarrollo en la plataforma Android, Aunque en este momento soy Junior mejoro mis habilidades cada día y espero pronto Manejar lenguajes como Swift, Flutter, y otras más del ambiente web como:  Angular & Vue Js.
+Hello, I am an Electronic Engineer passionate about technology and software and hardware development. My objective is focused on developing skills in the design and integration of specific hardware components and custom software, mainly in mobile devices. Currently I am starting in the field of development on the Android platform, although at the moment I am Junior I improve my skills every day and I hope soon to handle languages such as Kotlin, Flutter, Swift and others for web development, Angular & Vue Js.
 
-### Encuentrame en la Web :coffee:
+### Find me on the web :coffee:
 
-- 🔭 Compartiendo una fotografia en [Instagram](https://www.instagram.com/vega_florido/)
-- 🌱 En los muros de [Facebook](https://www.facebook.com/efloridovega/)
-- 👯 En las redes de [LinkedIn](https://www.linkedin.com/in/esteban-florido-vega-4ab05814a/)
+- 🔭 Sharing a photo on [Instagram](https://www.instagram.com/vega_florido/)
+- 🌱 On the wall of [Facebook](https://www.facebook.com/efloridovega/)
+- 👯 In the networks of [LinkedIn](https://www.linkedin.com/in/esteban-florido-vega-4ab05814a/)
