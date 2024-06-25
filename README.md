@@ -21,6 +21,7 @@
 - 💾 C/C++: Writing code that speaks binary fluently.
 - 🦾 RPA: Automating the boring stuff, so I can do more boring stuff.
 - 🌐 AWS: Deploying things to the cloud because it's fluffy up there.
+- 📱 Kotlin: Writing Android apps that are almost bug-free... almost.
 
 ### Fun Facts
 
