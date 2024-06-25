@@ -1,5 +1,3 @@
-Sure, here's a light-hearted and humorous GitHub profile:
-
 ---
 
 ## Hey there! I'm Esteban Florido Vega 👋
