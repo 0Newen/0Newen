@@ -1,5 +1,3 @@
-![GIF Image](https://cdn.wallpapersafari.com/67/69/vOYBIE.jpg)
-
 
 ### Hi, I'm Esteban :rocket: :coffee: 👋
 > Electronic Engineer, Mobile Developer & Hardware Designer.
