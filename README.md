@@ -1,42 +1,47 @@
 ---
 
-## Hey there! I'm Esteban Florido Vega 👋
+## Hello! I'm Esteban Florido Vega 👋
 
-🌟 **Professional Procrastinator** | 🛠️ **Code Whisperer** | 🌐 **Internet Explorer**
+🌟 **Skilled Software Developer** | 🛠️ **Code Enthusiast** | 🌐 **Tech Explorer**
 
 ---
 
-### A little about me...
+### A bit about me...
 
-- 👨‍💻 I code because I can't afford therapy.
-- 💡 My code doesn't always run, but when it does, it runs away.
-- 🐛 Bug fixer by day, bug creator by night.
-- 🌱 Currently learning how to keep my coffee consumption below 5 cups a day.
-- 🚀 On a mission to push my code and pull my sanity.
+- 👨‍💻 I write code not just as a job, but as a passion.
+- 💡 While code doesn't always cooperate, when it does, it delivers results.
+- 🐛 Dedicated to solving complex bugs and creating robust solutions.
+- 🌱 Continuously refining my craft and learning new technologies every day.
+- 🚀 Committed to delivering high-quality code and maintaining a healthy work-life balance.
 
-### My Skills
+### My Expertise
 
-- 🐍 Python: Making snakes proud since 2010.
-- ☕ Java: Just like my coffee, strong and keeps me awake.
-- 💾 C/C++: Writing code that speaks binary fluently.
-- 🦾 RPA: Automating the boring stuff, so I can do more boring stuff.
-- 🌐 AWS: Deploying things to the cloud because it's fluffy up there.
-- 📱 Kotlin: Writing Android apps that are almost bug-free... almost.
+#### **Programming Languages:**
+- 🐍 **Python:** Crafting efficient, readable, and scalable code since 2010.
+- 💾 **C/C++:** Fluent in low-level programming, creating optimized and performant code.
+- 🦾 **Dart:** Building cross-platform mobile applications with a focus on performance and reliability.
+
+#### **Web Development:**
+- 🌐 **HTML & CSS:** Creating responsive and visually appealing web pages with a focus on usability.
+- 🖥️ **JavaScript:** Developing interactive web applications with seamless user experiences.
+- 🔧 **Vue.js:** Building dynamic, component-based web applications with a modern framework.
+
+#### **Mobile Development:**
+- 📱 **Kotlin:** Developing Android applications that are user-friendly and reliable.
+- 📲 **Flutter (Dart):** Crafting cross-platform mobile apps that provide a consistent user experience on both Android and iOS.
+
+#### **Cloud Services:**
+- 🌐 **AWS:** Deploying and managing cloud-based solutions with a focus on scalability and security.
+
+#### **Automation:**
+- 🦾 **Robotic Process Automation (RPA):** Streamlining processes through automation, improving efficiency and accuracy.
 
 ### Fun Facts
 
-- 🎸 I play guitar to soothe my code's feelings after a brutal debugging session.
-- 🎩 Can pull a StackOverflow solution out of a hat.
-- 🏆 Winner of the "Most Creative Bug" award in the office.
+- 🎸 Playing guitar helps me unwind after intense coding sessions.
+- 🎩 Skilled at finding innovative solutions, even in challenging situations.
+- 🏆 Recognized for creativity and problem-solving in software development.
 
 ### Let's Connect!
 
-- 🐦 [Twitter](https://twitter.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/esteban-florido-vega-4ab05814a/)
-- 🌐 [Personal Website](https://yourpersonalwebsite.com)
-
-### My GitHub Stats
-
-![Esteban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
