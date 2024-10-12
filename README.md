@@ -21,11 +21,6 @@
 - 💾 **C/C++:** Fluent in low-level programming, creating optimized and performant code.
 - 🦾 **Dart:** Building cross-platform mobile applications with a focus on performance and reliability.
 
-#### **Web Development:**
-- 🌐 **HTML & CSS:** Creating responsive and visually appealing web pages with a focus on usability.
-- 🖥️ **JavaScript:** Developing interactive web applications with seamless user experiences.
-- 🔧 **Vue.js:** Building dynamic, component-based web applications with a modern framework.
-
 #### **Mobile Development:**
 - 📱 **Kotlin:** Developing Android applications that are user-friendly and reliable.
 - 📲 **Flutter (Dart):** Crafting cross-platform mobile apps that provide a consistent user experience on both Android and iOS.
